@@ -9,7 +9,7 @@ body{
   height: 100vh;
   justify-content: center;
   align-items: center;
-  background:url("../images/banner.jpg") no-repeat center/cover fixed;;
+  background:url("../imges/banner.jpg") no-repeat center/cover fixed;;
 }
 .container{
   max-width: 700px;
